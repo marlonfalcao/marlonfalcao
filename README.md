@@ -1,7 +1,7 @@
 ## Sobre mim
 
-Olá, sou Marlon Santos (Falcão). Amante de aviação desde criança, me dediquei nessa área por mais de 10 anos e atualmente sou piloto comercial de avião. Minha influencia na tecnologia teve participação total do meu irmão e o start para eu querer mergulhar nesse mundo foi o desenvolvimento do aplicativo ThrustApp (voltado para aviação) a qual eu participei diretamente sendo o idealizador econtribui também com toda a parte de fluxograma e um pouco de layout e designer.
-Atualmente estou estudando HTML5, CSS3 e JavaScript ainda entendendo esse mundo a descobrindo quais caminhos seguir nesse universo da tecnologia.
+Hi, I'm Marlon Santos (Falcão). A lover aviation since I was a child, I dedicate myself to this area for more than 10 years and I am currently a commercial airline pilot. Atualy, I believe that in the present and future, who knows some thing abot tech such as programming language, AI, data science, whatever... This one will be a step ahead of the others. However, this is my goal. 
+I am currently studying HTML5, CSS3 and JavaScript, still understanding this world and discovering ways forward in this technology universe.
 
  <div>
   <a href="https://github.com/marlonfalcao">
